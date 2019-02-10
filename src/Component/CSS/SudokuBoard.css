@@ -1,0 +1,9 @@
+.board {
+    width: 321px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.winner {
+    text-align: center;
+}

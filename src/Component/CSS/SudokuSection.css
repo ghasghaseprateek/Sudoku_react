@@ -1,0 +1,21 @@
+.section {
+    width: 105px;
+    display: inline-block;
+    border: solid 1px black;
+}
+
+.row {
+    display: inline-block;
+}
+
+.box {
+    width: 33px;
+    height: 33px;
+    display: inline-block;
+    border: solid 1px greenyellow;
+    text-align: center;
+}
+
+.error {
+    border: solid 1px red;
+}
